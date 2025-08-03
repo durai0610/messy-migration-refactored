@@ -1,6 +1,6 @@
 # 🧩 User Management API — Refactored
 
-A refactored version of a legacy user management API, using Flask, SQLAlchemy, and modular best practices.
+- A refactored version of a legacy user management API, using Flask, SQLAlchemy, and modular best practices.
 
 ---
 
@@ -31,7 +31,7 @@ python init_db.py
 python app.py
 ```
 
-🔌 API Endpoints
+## 🔌 API Endpoints
 
 | Method | Endpoint           | Description              |
 |--------|--------------------|--------------------------|
@@ -46,7 +46,7 @@ python app.py
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```
 messy-migration-refactored/
@@ -65,18 +65,18 @@ messy-migration-refactored/
 
 ---
 
-🧪 Running Tests
+## 🧪 Running Tests
 
 ```bash
 python test_app.py
 ```
 ---
 
-🤖 AI Usage Declaration
+## 🤖 AI Usage Declaration
 
-ChatGPT was used for suggestions on password hashing, structure, and writing tests.
+- ChatGPT was used for suggestions on password hashing, structure, and writing tests.
 
-All code was written manually and verified.
+- All code was written manually and verified.
 
 ---
 
